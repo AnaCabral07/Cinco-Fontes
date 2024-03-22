@@ -1,9 +1,38 @@
 body {
     text-align: center;
-    background-color: #d3d3d3;
+    background-color: #aea6b9;
 }
 
 h1 {
     text-decoration: underline;
-    color: red;
+    color: rgb(59, 1, 82);
 }
+
+h2 {
+    color: rgb(96, 42, 146);
+}
+
+.p1 {
+    font-family: serif;
+}
+
+.p2 {
+    font-family: sans-serif;
+}
+
+.p3 {
+    font-family: fantasy;
+}
+
+.p4 {
+    font-family: Cedarville Cursive;
+}
+
+.p5 {
+    font-family: monospace;
+}
+
+  
+
+
+ 
