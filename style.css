@@ -1,19 +1,19 @@
 body {
     text-align: center;
-    background-color: #320d3d;
+    background-color: #7b518b;
 }
 
 h1 {
     text-decoration: underline;
-    color: rgb(147, 41, 192);
+    color: rgb(43, 0, 59);
 }
 
 h2 {
-    color: rgb(183, 143, 223);
+    color: rgb(61, 39, 83);
 }
 
 p {
-    color: rgb(200, 143, 223);
+    color: rgb(240, 210, 237);
 }
 
 .p1 {
